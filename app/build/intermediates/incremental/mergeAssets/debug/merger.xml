@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\anirban\AndroidStudioProjects\PrepCards\app\src\main\assets"><file name="fonts/gothic.ttf" path="C:\Users\anirban\AndroidStudioProjects\PrepCards\app\src\main\assets\fonts\gothic.ttf"/></source></dataSet><dataSet config="debug"><source path="C:\Users\anirban\AndroidStudioProjects\PrepCards\app\src\debug\assets"/></dataSet></merger>

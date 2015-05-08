@@ -1,0 +1,41 @@
+<resources>
+
+    <string name="app_name">PrepCards</string>
+    <string name="splash_screen_title">PrepCards 1.0.0 </string>
+    <string name="company_info">Address: Kwattaweg 264 Paramaribo / Suriname Phone: 443030 / 462727 Email: sales@locksmith.sr</string>
+    <string name="add_contact_info_title">Enter Store Info</string>
+    <string name="store_name_hint">Store Name</string>
+    <string name="address_hint">Address</string>
+    <string name="phone_hint">Phone</string>
+    <string name="next_button">Next >></string>
+    <string name="submit_order_button">Submit Order</string>
+    <string name="clear_button">Clear</string>
+    <string name="clear_order_button">Clear Order</string>
+    <string name="all_field_mandatory">All fields are mandatory !!</string>
+    <string name="qty_validation">Quantity should be lees then 9999.</string>
+    <string name="min_char">All fields should contain min 6 characters  !!</string>
+    <string name="checking_server_dialog_message">Checking server status ...</string>
+    <string name="posting_order_dialog_message">Processing your order ...</string>
+    <string name="check_network">Please check your internet coonection ...</string>
+    <string name="order_details_title">Order Details</string>
+    <string name="product_title">Product Name</string>
+    <string name="vendor_one_title">Teleg(Qty)</string>
+    <string name="vendor_two_title">Digicel(Qty)</string>
+    <string name="product_title_row_one">5 SRD</string>
+    <string name="product_title_row_two">10 SRD</string>
+    <string name="product_title_row_three">20 SRD</string>
+    <string name="product_title_row_four">30 SRD</string>
+    <string name="product_title_row_five">50 SRD</string>
+    <string name="product_title_row_six">100 SRD</string>
+    <string name="place_order_button">Place Order</string>
+    <string name="order_info_title">Enter Order</string>
+    <string name="thanks_message">Thnaks for placing the order...</string>
+    <string name="server_offline">Sorry server is offline...</string>
+    <string name="other_error">Some thing went wrong Please try after some time.</string>
+    <string name="subtotal">Subtotal:</string>
+    <string name="grand_total">Grandtotal:</string>
+    <string name="tap_to_back">Tap back button in order to exit</string>
+    <string name="please_verify">Please verify QTY, Subtotal &amp; Grandtotal before placing order.</string>
+    <string name="increase_order_error">Your order value is too low . Please increase order!!</string>
+
+</resources>
